@@ -1,0 +1,81 @@
+body{
+   background-color: #90e0ef;
+
+}
+hr{
+   border-style: none;
+   border-top-style:dotted ;
+   border-color: white;
+   border-width: 5px;
+   height: 0px;
+   width: 10%;
+}
+img{
+   height: 17%;
+   width: 17%;
+}
+img.pfp:hover{
+    height: 18%;
+    width: 18%;
+}
+.pfp{
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    color: #03045e;
+    font-family: 'Ubuntu', sans-serif;
+}
+h3{
+    color: #023e8a;
+    font-family: 'Ubuntu', sans-serif;
+}
+p{
+    color: #0077b6;
+    font-family: 'Ubuntu', sans-serif;
+}
+form{
+    color: #0077b6;
+    font-family: 'Ubuntu', sans-serif;
+}
+li{
+    color: #0077b6;
+    font-family: 'Ubuntu', sans-serif;
+}
+table{
+    color: #0077b6;
+    font-family: 'Ubuntu', sans-serif;
+}
+a{
+    color: #03045e;
+    font-family: 'Ubuntu', sans-serif;
+}
+.header{
+    background-color: #03045e;
+    color: white;
+    padding: 10px 12px;
+    font-size: medium;
+    text-decoration: none;
+}
+.bgimage{
+    height: 50%;
+    width: 100%;
+    background-image: url(https://imagizer.imageshack.com/img923/9221/OcaraQ.jpg);
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding: 0%;
+    display: block;
+}
+.first{
+    color: white;
+    text-align: center;
+}
+.header a:hover{
+    background-color: white;
+    color: #03045e;
+}
+.thr{
+    opacity: 0;
+}
